@@ -66,4 +66,4 @@ The PDFs are **not included** for copyright reasons. Sources used:
 
 ## Author
 
-**Mohamed Semsili**, Health Data Analyst, Casablanca
+**Mohamed Semsili**, Data Scientist (health specialty), Casablanca
